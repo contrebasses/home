@@ -3,21 +3,21 @@ languageName = "French"
 languageDirection = "ltr"
 weight = 1
 
-title = "contrebasses | UX/UI Designer"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Hawa M | UX/UI Designer"
+copyright = "© 2024 Hawa M"
 
 [params]
-  dateFormat = "2 January 2006"
+  dateFormat = "2 january 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "UX/UI designer, Front End Developer, Web Accessibility Specialist"
+  description = "UX/UI Designer, Front End Developer, Web Accessibility Specialist"
 
 [params.author]
-name = "contrebasses"
-image = "img/author.jpeg"
-headline = "I'm only human"
-bio = "A little bit about you"
-  # links = [
+name = ""
+image = "assets/author.jpg"
+headline = "User Experience Researcher, Web Designer, Personne Élégante"
+bio = "Pense le design de vos histoires"
+  links = [
      { email = "mailto:hmariko@gmx.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -63,4 +63,4 @@ bio = "A little bit about you"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+  ]

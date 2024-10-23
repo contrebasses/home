@@ -4,7 +4,7 @@
 theme = "congo"
 
 
-baseURL = "https://contrebasses.github.io/blog"
+baseURL = "https://contrebasses.github.io/home"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 
