@@ -22,19 +22,21 @@ B-->C[Profit]
 {{< /mermaid >}}
 
 Sinon j'aime beaucoup 
-- Le [bircher muesli]()
-- Les [fauvettes]()
-- Le [festival de la chanson italienne]()
-- Le [focus visible lors de la navigation au clavier]()
+- Le bircher muesli
+- Les fauvettes
+- Le festival de la chanson italienne
+- Le [focus visible lors de la navigation au clavier](#)
 - Le [pump]()
+Je n'aime pas
+- Les films sur le cyclimse
 
 ## Outils que j'utilise
 
 - Kate
 - Debian
 - Figma
-- 
-- Samurai
+- Miro
+- Offload
 
 ## CV
 

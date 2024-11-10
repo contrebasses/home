@@ -7,14 +7,14 @@ title = "Hawa M | UX/UI Designer"
 copyright = "© 2024 Hawa M"
 
 [params]
-  dateFormat = "2 january 2006"
+  dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
   description = "UX/UI Designer, Front End Developer, Web Accessibility Specialist"
 
 [params.author]
-name = ""
-image = "assets/author.jpg"
+name = "Hawa"
+image = "assets/author.png"
 headline = "User Experience Researcher, Web Designer, Personne Élégante"
 bio = "Pense le design de vos histoires"
   links = [
