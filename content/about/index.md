@@ -13,7 +13,7 @@ J'ai appris à travailler seule et en équipe, et à communiquer efficacement av
 
 J'ai réalisé que la solution à tous mes problèmes (et aux votres), c'est la conception orientée utilisateur d'outils accessibles et performants. 
 
-Donc maintenant, j'écoute beaucoup (beaucoup) les utilisateurs, je lis, je recherche, je propose, je recherche encore, et je conçois avec l'utilisateur.
+Donc maintenant, j'écoute beaucoup (beaucoup) les utilisateurs, je lis, je recherche, je propose, je recherche encore.
 
 {{< mermaid >}}
 graph LR;
@@ -21,13 +21,14 @@ A[Lemons]-->B[Lemonade];
 B-->C[Profit]
 {{< /mermaid >}}
 
-Sinon j'aime beaucoup 
+Sinon j'aime beaucoup :
 - Le bircher muesli
 - Les fauvettes
 - Le festival de la chanson italienne
 - Le [focus visible lors de la navigation au clavier](#)
 - Le [pump]()
-Je n'aime pas
+
+Je n'aime pas :
 - Les films sur le cyclimse
 
 ## Outils que j'utilise

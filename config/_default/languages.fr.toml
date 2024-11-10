@@ -14,7 +14,7 @@ copyright = "© 2024 Hawa M"
 
 [params.author]
 name = "Hawa"
-image = "assets/author.png"
+image = "/assets/author.png"
 headline = "User Experience Researcher, Web Designer, Personne Élégante"
 bio = "Pense le design de vos histoires"
   links = [
