@@ -14,7 +14,7 @@ copyright = "&copy; 2024 Hawa M"
 
 [params.author]
 name = "Hawa"
-image = "assets/author.png"
+image = "author.png"
 headline = "User Experience Researcher, Web Designer, Personne Élégante"
 bio = "Pense le design de vos histoires"
   links = [
@@ -39,7 +39,7 @@ bio = "Pense le design de vos histoires"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/m-hawa" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },

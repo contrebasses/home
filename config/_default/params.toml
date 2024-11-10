@@ -14,9 +14,9 @@ defaultThemeColor = "#FFFFFF"
 enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
-enableImageWebp = true
+enableImageWebp = false
 
-robots = "none,noarchive"
+robots = "none,noarchive,noimageindex"
 fingerprintAlgorithm = "sha256"
 
 [header]
@@ -39,7 +39,7 @@ fingerprintAlgorithm = "sha256"
 [article]
   showDate = true
   showDateUpdated = false
-  showAuthor = false
+  showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
@@ -57,7 +57,7 @@ fingerprintAlgorithm = "sha256"
 
 [list]
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showTableOfContents = false
   showTaxonomies = false
   groupByYear = false

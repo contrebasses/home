@@ -6,14 +6,14 @@
     <description>Recent content in Projets on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <copyright>© 2024 Hawa M</copyright>
+    <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tu l&#39;aime mon écran login ?</title>
+      <title>A Certain Linksite</title>
       <link>http://localhost:1313/home/work/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/work/work1/</guid>
-      <description></description>
+      <description>Une page de profil/liens responsive et accessible</description>
     </item>
   </channel>
 </rss>

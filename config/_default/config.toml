@@ -9,7 +9,7 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
-summaryLength = 0
+summaryLength = 9
 
 [pagination]
   pagerSize = 10

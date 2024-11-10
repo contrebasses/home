@@ -6,21 +6,21 @@
     <description>Recent content on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <copyright>© 2024 Hawa M</copyright>
+    <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Certain Linksite</title>
+      <link>http://localhost:1313/home/work/work1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/work/work1/</guid>
+      <description>Une page de profil/liens responsive et accessible</description>
+    </item>
     <item>
       <title>Qui suis-je ?</title>
       <link>http://localhost:1313/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tu l&#39;aime mon écran login ?</title>
-      <link>http://localhost:1313/home/work/work1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work1/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;introduction&#34; class=&#34;relative group&#34;&gt;Introduction &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Je m&amp;rsquo;appelle Hawa, je suis designer UX/UI en Belgique et dans le monde.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

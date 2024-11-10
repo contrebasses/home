@@ -17,14 +17,20 @@
     
   
     
-      <url>
-            <loc>http://localhost:1313/home/about/</loc>
-          </url>
+  
+    
+  
     
   
     
       <url>
             <loc>http://localhost:1313/home/work/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/home/about/</loc>
           </url>
     
   

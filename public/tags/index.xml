@@ -6,7 +6,28 @@
     <description>Recent content in Tags on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <copyright>© 2024 Hawa M</copyright>
+    <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A11y</title>
+      <link>http://localhost:1313/home/tags/a11y/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/tags/a11y/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/home/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/home/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/tags/html/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

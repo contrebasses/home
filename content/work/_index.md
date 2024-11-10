@@ -1,6 +1,6 @@
 ---
 title: "Projets"
-description: ""
+description: "Quelques-uns de mes projets"
 cascade:
   showReadingTime: false
   showDate: false
