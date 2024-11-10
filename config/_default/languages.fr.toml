@@ -13,10 +13,10 @@ copyright = "&copy; 2024 Hawa M"
   description = "UX/UI Designer, Front End Developer, Web Accessibility Specialist"
 
 [params.author]
-name = "Hawa"
+name = "Hawa M"
 image = "author.png"
 headline = "User Experience Researcher, Web Designer, Personne Élégante"
-bio = "Pense le design de vos histoires"
+bio = "Imagine le design de votre vie"
   links = [
      { email = "mailto:hmariko@gmx.com" },
   #   { link = "https://link-to-some-website.com/" },

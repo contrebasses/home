@@ -3,17 +3,13 @@ title: "Qui suis-je ?"
 showReadingTime: false
 showDate: false
 ---
-## Introduction
+## À propos
 
-Je m'appelle Hawa, je suis designer UX/UI en Belgique et dans le monde.
+Je m'appelle Hawa, je suis **designer UX/UI** en Belgique et dans le monde.
 
-J'ai étudié la programmation et ausculté beaucoup (beaucoup, beaucoup) de PCs, et redémarré beaucoup de programmes.
-J'ai appris à travailler seule et en équipe, et à communiquer efficacement avec à peu près n'importe qui.
-
-
-J'ai réalisé que la solution à tous mes problèmes (et aux votres), c'est la conception orientée utilisateur d'outils accessibles et performants. 
-
-Donc maintenant, j'écoute beaucoup (beaucoup) les utilisateurs, je lis, je recherche, je propose, je recherche encore.
+J'ai retapé des tonnes de PCs et relancé des tonnes de programmes. J'ai appris à me démerder **seule ou en équipe** et à me faire comprendre d'à peu près n'importe qui.
+Puis j'ai compris que la solution à tous nos emmerdes, c'était de concevoir des outils **super accessibles et qui déchirent**. 
+Donc maintenant, je passe mon temps à écouter les utilisateurs, à faire de la recherche, et à **garder l'humain au coeur de la conception**.
 
 {{< mermaid >}}
 graph LR;
@@ -23,7 +19,6 @@ B-->C[Profit]
 
 Sinon j'aime beaucoup :
 - Le bircher muesli
-- Les fauvettes
 - Le festival de la chanson italienne
 - Le [focus visible lors de la navigation au clavier](#)
 - Le [pump]()
@@ -31,9 +26,9 @@ Sinon j'aime beaucoup :
 Je n'aime pas :
 - Les films sur le cyclimse
 
+
 ## Outils que j'utilise
 
-- Kate
 - Debian
 - Figma
 - Miro
@@ -44,6 +39,8 @@ Je n'aime pas :
 {{< button href="#button" target="_self" >}}
 Télécharger mon CV
 {{< /button >}}
+
+
 
 
 
