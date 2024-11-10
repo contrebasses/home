@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Hawa M | UX/UI Designer"
-copyright = "© 2024 Hawa M"
+copyright = "&copy; 2024 Hawa M"
 
 [params]
   dateFormat = "2 January 2006"
@@ -14,7 +14,7 @@ copyright = "© 2024 Hawa M"
 
 [params.author]
 name = "Hawa"
-image = "/assets/author.png"
+image = "assets/author.png"
 headline = "User Experience Researcher, Web Designer, Personne Élégante"
 bio = "Pense le design de vos histoires"
   links = [
