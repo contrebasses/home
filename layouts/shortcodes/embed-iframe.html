@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+  	.shortcode-iframe{height: 85vh; width: 85vw;}
+
+@media(min-width : 800px){
+.shortcode-iframe{height: 83vh; width: 80vw}
+}
+  </style>
+</head>
+<body>
+	<div class="shortcode-iframe-wrapper">
+    <iframe class="shortcode-iframe" src={{ .Get 0 }}></iframe>
+</div>
+</body>
+</html>

@@ -1,16 +1,20 @@
 ---
 title: "A Certain Linksite"
-showReadingTime: false
-showDate: false
 description: "Responsive and accessible HTML/CSS social media link profile"
 summary: 'Une page de profil/liens responsive et accessible'
-tags: ["html", "css", "a11y"]
+tags: ['HTML', 'CSS', 'A11Y']
 ---
+
+
+{{< lead >}}
+Une page de profil/liens responsive et accessible
+{{< /lead >}}
+
+
 ## Écrans 
 
 
 ![Une card de profil avec liste de liens, gris sur fond noir, version desktop](Desktop.png "Version desktop") 
-![Une card de profil avec liste de liens, gris sur fond noir, version mobile](Mobile.png "Version mobile")
 
 
 ## En live
