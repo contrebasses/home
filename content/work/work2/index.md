@@ -1,30 +1,28 @@
 ---
-title: "Tu l'aimes mon login ?"
-description: "Responsive and accessible HTML/CSS login screen"
-summary: 'Un écran de connexion responsive et accessible'
-tags: ['HTML', 'CSS', 'A11Y']
+title: "Redesign du site d'une association"
+description: "Attractive, responsive and accessible webdesign"
+summary: "Modernisation et adaptation responsive et accessible de site après recherche UX"
+tags: ['A11Y', 'PROTOTYPING', 'UX']
 ---
 
-
 {{< lead >}}
-Un écran de connexion responsive et accessible
+Modernisation et adaptation responsive et accessible de site après recherche UX
 {{< /lead >}}
 
 
-## Écrans 
+## Étude de cas
 
 
-![Une card de profil avec liste de liens, gris sur fond noir, version desktop](Desktop.png "Version desktop") 
-
-
-## En live
-
+![Des écrans d'un site web](Desktop.png "Design final") 
 
 
 
 ## Technologies utilisées
 
-- Vanilla HTML/CSS
-- Kate
+- Des crayons, du papier
+- Capian
+- UXTweak
 - Figma
+- Miro
+- [redacted] Analytics
 

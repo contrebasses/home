@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/home/work/work1/</guid>
       <description>Une page de profil/liens responsive et accessible</description>
     </item>
-    <item>
-      <title>Tu l&#39;aimes mon login ?</title>
-      <link>http://localhost:1313/home/work/work2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work2/</guid>
-      <description>Un écran de connexion responsive et accessible</description>
-    </item>
   </channel>
 </rss>

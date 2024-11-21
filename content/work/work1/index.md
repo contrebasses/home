@@ -2,7 +2,7 @@
 title: "A Certain Linksite"
 description: "Responsive and accessible HTML/CSS social media link profile"
 summary: 'Une page de profil/liens responsive et accessible'
-tags: ['HTML', 'CSS', 'A11Y']
+tags: ['A11Y', 'HTML', 'CSS']
 ---
 
 

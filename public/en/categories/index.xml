@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on contrebasses | UX/UI Designer</title>
-    <link>http://localhost:1313/blog/en/categories/</link>
-    <description>Recent content in Categories on contrebasses | UX/UI Designer</description>
+    <title>Categories on Hawa M | UX/UI Designer</title>
+    <link>http://localhost:1313/home/en/categories/</link>
+    <description>Recent content in Categories on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>contrebasses</copyright>
-    <atom:link href="http://localhost:1313/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2024 Hawa M</copyright>
+    <atom:link href="http://localhost:1313/home/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

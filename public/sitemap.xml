@@ -10,8 +10,16 @@
   
     
       <url>
+            <loc>http://localhost:1313/home/land/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/home/work/work1/</loc>
           </url>
+    
+  
     
   
     
@@ -29,16 +37,28 @@
     
   
     
+  
+    
       <url>
             <loc>http://localhost:1313/home/about/</loc>
           </url>
     
   
     
+      <url>
+            <loc>http://localhost:1313/home/work/work2/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
   
     
       <url>
-            <loc>http://localhost:1313/home/work/work2/</loc>
+            <loc>http://localhost:1313/home/work/work4/</loc>
           </url>
     
   

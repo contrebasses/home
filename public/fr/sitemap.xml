@@ -4,23 +4,39 @@
   
     
       <url>
-            <loc>http://localhost:1313/blog/</loc>
+            <loc>http://localhost:1313/home/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/blog/en/"
+              href="http://localhost:1313/home/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/blog/"
+              href="http://localhost:1313/home/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/blog/work/work1/</loc>
+            <loc>http://localhost:1313/home/work/work1/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/home/work/</loc>
           </url>
     
   
@@ -28,16 +44,26 @@
   
     
       <url>
-            <loc>http://localhost:1313/blog/about/</loc>
+            <loc>http://localhost:1313/home/about/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/blog/work/</loc>
+            <loc>http://localhost:1313/home/work/work2/</loc>
           </url>
     
   
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/home/work/work4/</loc>
+          </url>
     
   
 </urlset>

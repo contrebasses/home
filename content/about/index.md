@@ -24,14 +24,14 @@ B-->C[Profit]
 ### Sinon j'aime beaucoup :
 - Le bircher muesli
 - Le festival de la chanson italienne
-- Le [focus visible lors de la navigation au clavier](#)
-- Le [pump]()
+- Le [focus visible lors de la navigation au clavier](https://www.elevenways.be/fr/articles/tout-ce-que-vous-devez-savoir-sur-accessibilite-obligatoire-des-applications-gouvernementales)
+- Le [pump](https://i.pinimg.com/originals/00/db/ab/00dbabf281ced0eed5d3f00290a81c19.png)
 
 ### Je n'aime pas :
 - Les films sur le cyclimse
 
 
-## Outils que j'utilise
+## Quelques outils que j'utilise
 
 - Debian
 - Figma
