@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/home/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redesign du site d&#39;une association</title>
-      <link>http://localhost:1313/home/work/work2/</link>
+      <link>http://localhost:1313/home/work/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work2/</guid>
-      <description>Modernisation et adaptation responsive et accessible de site après recherche UX</description>
+      <guid>http://localhost:1313/home/work/work1/</guid>
+      <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
     </item>
   </channel>
 </rss>

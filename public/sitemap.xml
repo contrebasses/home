@@ -16,8 +16,10 @@
   
     
       <url>
-            <loc>http://localhost:1313/home/work/work1/</loc>
+            <loc>http://localhost:1313/home/work/work2/</loc>
           </url>
+    
+  
     
   
     
@@ -46,7 +48,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/home/work/work2/</loc>
+            <loc>http://localhost:1313/home/work/work1/</loc>
           </url>
     
   

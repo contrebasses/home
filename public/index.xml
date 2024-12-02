@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>A Certain Linksite</title>
-      <link>http://localhost:1313/home/work/work1/</link>
+      <link>http://localhost:1313/home/work/work2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work1/</guid>
+      <guid>http://localhost:1313/home/work/work2/</guid>
       <description>Une page de profil/liens responsive et accessible</description>
     </item>
     <item>
@@ -31,10 +31,10 @@
     </item>
     <item>
       <title>Redesign du site d&#39;une association</title>
-      <link>http://localhost:1313/home/work/work2/</link>
+      <link>http://localhost:1313/home/work/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work2/</guid>
-      <description>Modernisation et adaptation responsive et accessible de site après recherche UX</description>
+      <guid>http://localhost:1313/home/work/work1/</guid>
+      <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
     </item>
     <item>
       <title>Ye Olde Gif Making Script</title>
