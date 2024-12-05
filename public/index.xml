@@ -9,6 +9,27 @@
     <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Design du site d&#39;une association</title>
+      <link>http://localhost:1313/home/work/asbl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/work/asbl/</guid>
+      <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
+    </item>
+    <item>
+      <title>Version mobile du site Villo!</title>
+      <link>http://localhost:1313/home/work/villo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/work/villo/</guid>
+      <description>Une version accessible et juste utilisable du site Villo! sur mobile</description>
+    </item>
+    <item>
+      <title>Design d&#39;application de courses en ligne</title>
+      <link>http://localhost:1313/home/work/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/work/food/</guid>
+      <description>What it says on the tin</description>
+    </item>
+    <item>
       <title></title>
       <link>http://localhost:1313/home/land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17,9 +38,9 @@
     </item>
     <item>
       <title>A Certain Linksite</title>
-      <link>http://localhost:1313/home/work/work2/</link>
+      <link>http://localhost:1313/home/work/linx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work2/</guid>
+      <guid>http://localhost:1313/home/work/linx/</guid>
       <description>Une page de profil/liens responsive et accessible</description>
     </item>
     <item>
@@ -30,17 +51,10 @@
       <description>&lt;h2 id=&#34;à-propos&#34; class=&#34;relative group&#34;&gt;À propos &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%c3%a0-propos&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Je m&amp;rsquo;appelle Hawa, je suis &lt;strong&gt;designer UX/UI&lt;/strong&gt; en Belgique et dans le monde.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Redesign du site d&#39;une association</title>
-      <link>http://localhost:1313/home/work/work1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work1/</guid>
-      <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
-    </item>
-    <item>
       <title>Ye Olde Gif Making Script</title>
-      <link>http://localhost:1313/home/work/work4/</link>
+      <link>http://localhost:1313/home/work/gif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work4/</guid>
+      <guid>http://localhost:1313/home/work/gif/</guid>
       <description>Un script Bash pour faire des gifs à partir d&amp;rsquo;une vidéo</description>
     </item>
   </channel>

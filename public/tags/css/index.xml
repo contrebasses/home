@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/home/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Certain Linksite</title>
-      <link>http://localhost:1313/home/work/work2/</link>
+      <link>http://localhost:1313/home/work/linx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/work2/</guid>
+      <guid>http://localhost:1313/home/work/linx/</guid>
       <description>Une page de profil/liens responsive et accessible</description>
     </item>
   </channel>
