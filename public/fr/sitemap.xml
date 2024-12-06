@@ -4,6 +4,24 @@
   
     
       <url>
+            <loc>http://localhost:1313/home/work/asbl/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/home/work/villo/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/home/work/food/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/home/</loc>
             <xhtml:link
               rel="alternate"
@@ -20,8 +38,16 @@
   
     
       <url>
-            <loc>http://localhost:1313/home/work/work1/</loc>
+            <loc>http://localhost:1313/home/land/</loc>
           </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/home/work/linx/</loc>
+          </url>
+    
+  
     
   
     
@@ -49,10 +75,6 @@
     
   
     
-      <url>
-            <loc>http://localhost:1313/home/work/work2/</loc>
-          </url>
-    
   
     
   
@@ -62,7 +84,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/home/work/work4/</loc>
+            <loc>http://localhost:1313/home/work/gif/</loc>
           </url>
     
   

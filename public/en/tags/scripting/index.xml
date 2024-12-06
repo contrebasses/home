@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scripting on Hawa M | UX/UI Designer</title>
+    <link>http://localhost:1313/home/en/tags/scripting/</link>
+    <description>Recent content in Scripting on Hawa M | UX/UI Designer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 Hawa M</copyright>
+    <atom:link href="http://localhost:1313/home/en/tags/scripting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ye Olde Gif Making Script</title>
+      <link>http://localhost:1313/home/en/work/gif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/gif/</guid>
+      <description>Un script Bash pour faire des gifs à partir d&amp;rsquo;une vidéo</description>
+    </item>
+  </channel>
+</rss>

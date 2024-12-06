@@ -8,5 +8,54 @@
     <language>en</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of a non-profit&#39;s website</title>
+      <link>http://localhost:1313/home/en/work/asbl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/asbl/</guid>
+      <description>Responsive, green and accessible re-design following UX research</description>
+    </item>
+    <item>
+      <title>Mobile version of the Villo! website</title>
+      <link>http://localhost:1313/home/en/work/villo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/villo/</guid>
+      <description>Accessible modern mobile design for Villo bicycle renting</description>
+    </item>
+    <item>
+      <title>Grocery shopping app design</title>
+      <link>http://localhost:1313/home/en/work/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/food/</guid>
+      <description>What it says on the tin</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/en/land/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/land/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &lt;picture&#xA;      class=&#34;mx-auto my-0 rounded-md&#34;&#xA;      &#xA;    &gt;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;img&#xA;        width=&#34;208&#34;&#xA;        height=&#34;232&#34;&#xA;        class=&#34;mx-auto my-0 rounded-md&#34;&#xA;        alt=&#34;Portrait of the author&#34;&#xA;        loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;        &#xA;          src=&#34;http://localhost:1313/home/home/land/autrice.jpg&#34;&#xA;        &#xA;      /&gt;&#xA;    &lt;/picture&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &lt;picture&#xA;      class=&#34;mx-auto my-0 rounded-md&#34;&#xA;      &#xA;    &gt;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;img&#xA;        width=&#34;595&#34;&#xA;        height=&#34;842&#34;&#xA;        class=&#34;mx-auto my-0 rounded-md&#34;&#xA;        alt=&#34;Resume of the author, which can be also be found on LinkedIn @ m-hawa&#34;&#xA;        loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;        &#xA;          src=&#34;http://localhost:1313/home/home/land/autrice.png&#34;&#xA;        &#xA;      /&gt;&#xA;    &lt;/picture&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Certain Linksite</title>
+      <link>http://localhost:1313/home/en/work/linx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/linx/</guid>
+      <description>Responsive and accessible social media link profile</description>
+    </item>
+    <item>
+      <title>About the author</title>
+      <link>http://localhost:1313/home/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/about/</guid>
+      <description>&lt;p&gt;My name is Hawa. I work as an &lt;strong&gt;UX/UI designer&lt;/strong&gt;. I am located in Belgium at the moment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ye Olde Gif Making Script</title>
+      <link>http://localhost:1313/home/en/work/gif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/gif/</guid>
+      <description>Bash script for batch gif making from a video input</description>
+    </item>
   </channel>
 </rss>

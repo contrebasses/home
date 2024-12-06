@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GREEN IT on Hawa M | UX/UI Designer</title>
+    <link>http://localhost:1313/home/en/tags/green-it/</link>
+    <description>Recent content in GREEN IT on Hawa M | UX/UI Designer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 Hawa M</copyright>
+    <atom:link href="http://localhost:1313/home/en/tags/green-it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design d&#39;application de courses en ligne</title>
+      <link>http://localhost:1313/home/en/work/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/food/</guid>
+      <description>What it says on the tin</description>
+    </item>
+  </channel>
+</rss>

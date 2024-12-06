@@ -3,8 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
       <url>
             <loc>http://localhost:1313/home/fr%20%28copie%29/</loc>
             <xhtml:link
@@ -14,10 +12,17 @@
               />
             <xhtml:link
               rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/"
+              />
+            <xhtml:link
+              rel="alternate"
               hreflang="fr (copie)"
               href="http://localhost:1313/home/fr%20%28copie%29/"
               />
           </url>
+    
+  
     
   
     

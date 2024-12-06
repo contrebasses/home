@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hawa M | UX/UI Designer</title>
+    <title>Categories on </title>
     <link>http://localhost:1313/home/fr%20%28copie%29/categories/</link>
-    <description>Recent content in Categories on Hawa M | UX/UI Designer</description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
-    <language>fr</language>
-    <copyright>&amp;copy; 2024 Hawa M</copyright>
+    <language>fr (copie)</language>
     <atom:link href="http://localhost:1313/home/fr%20%28copie%29/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

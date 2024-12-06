@@ -1,81 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <sitemap>
+    <loc>http://localhost:1313/home/fr/sitemap.xml</loc>
     
-      <url>
-            <loc>http://localhost:1313/home/work/asbl/</loc>
-          </url>
-    
+  </sitemap>
   
+  <sitemap>
+    <loc>http://localhost:1313/home/en/sitemap.xml</loc>
     
-      <url>
-            <loc>http://localhost:1313/home/work/villo/</loc>
-          </url>
-    
+  </sitemap>
   
-    
-      <url>
-            <loc>http://localhost:1313/home/work/food/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/land/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/work/linx/</loc>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/work/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/about/</loc>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/work/gif/</loc>
-          </url>
-    
-  
-</urlset>
+</sitemapindex>

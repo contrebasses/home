@@ -4,8 +4,6 @@ showReadingTime: false
 showDate: false
 ---
 
-## À propos
-
 Je m'appelle Hawa, je suis **designer UX/UI** en Belgique et dans le monde.
 
 ![Un tapis de feuilles d'automne](leaves.jpg) 
