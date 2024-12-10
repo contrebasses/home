@@ -9,11 +9,25 @@
     <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/en/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Version mobile du site Villo!</title>
+      <title>Design of a non-profit&#39;s website</title>
+      <link>http://localhost:1313/home/en/work/asbl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/asbl/</guid>
+      <description>Responsive, green and accessible re-design following UX research</description>
+    </item>
+    <item>
+      <title>Mobile version of the Villo! website</title>
       <link>http://localhost:1313/home/en/work/villo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/en/work/villo/</guid>
-      <description>Une version accessible et juste utilisable du site Villo! sur mobile</description>
+      <description>Accessible modern mobile design for Villo bicycle renting</description>
+    </item>
+    <item>
+      <title>Grocery shopping app design</title>
+      <link>http://localhost:1313/home/en/work/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/food/</guid>
+      <description>What it says on the tin</description>
     </item>
   </channel>
 </rss>

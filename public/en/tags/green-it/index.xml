@@ -9,7 +9,14 @@
     <copyright>&amp;copy; 2024 Hawa M</copyright>
     <atom:link href="http://localhost:1313/home/en/tags/green-it/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design d&#39;application de courses en ligne</title>
+      <title>Design of a non-profit&#39;s website</title>
+      <link>http://localhost:1313/home/en/work/asbl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/asbl/</guid>
+      <description>Responsive, green and accessible re-design following UX research</description>
+    </item>
+    <item>
+      <title>Grocery shopping app design</title>
       <link>http://localhost:1313/home/en/work/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/en/work/food/</guid>

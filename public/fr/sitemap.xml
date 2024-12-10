@@ -5,18 +5,48 @@
     
       <url>
             <loc>http://localhost:1313/home/work/asbl/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/work/asbl/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/work/asbl/"
+              />
           </url>
     
   
     
       <url>
             <loc>http://localhost:1313/home/work/villo/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/work/villo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/work/villo/"
+              />
           </url>
     
   
     
       <url>
             <loc>http://localhost:1313/home/work/food/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/work/food/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/work/food/"
+              />
           </url>
     
   
@@ -39,12 +69,32 @@
     
       <url>
             <loc>http://localhost:1313/home/land/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/land/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/land/"
+              />
           </url>
     
   
     
       <url>
             <loc>http://localhost:1313/home/work/linx/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/work/linx/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/work/linx/"
+              />
           </url>
     
   
@@ -63,6 +113,16 @@
     
       <url>
             <loc>http://localhost:1313/home/work/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/work/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/work/"
+              />
           </url>
     
   
@@ -71,6 +131,16 @@
     
       <url>
             <loc>http://localhost:1313/home/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/about/"
+              />
           </url>
     
   
@@ -85,6 +155,16 @@
     
       <url>
             <loc>http://localhost:1313/home/work/gif/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/home/en/work/gif/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:1313/home/work/gif/"
+              />
           </url>
     
   
