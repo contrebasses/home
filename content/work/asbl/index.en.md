@@ -69,7 +69,7 @@ type: 'doughnut',
 data: {
   labels: ['SUS Score','Null'],
   datasets: [{
-    label: 'Prototype's average SUS score',
+    label: 'Prototype average SUS score',
     data: [80,20],
   backgroundColor: [
   'rgba(54, 162, 235, 0.7)',
