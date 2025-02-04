@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UI on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/tags/ui/</link>
+    <link>https://contrebasses.github.io/home/tags/ui/</link>
     <description>Recent content in UI on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design du site d&#39;une association</title>
-      <link>http://localhost:1313/home/work/asbl/</link>
+      <link>https://contrebasses.github.io/home/work/asbl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/asbl/</guid>
+      <guid>https://contrebasses.github.io/home/work/asbl/</guid>
       <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
     </item>
     <item>
       <title>Version mobile du site Villo!</title>
-      <link>http://localhost:1313/home/work/villo/</link>
+      <link>https://contrebasses.github.io/home/work/villo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/villo/</guid>
+      <guid>https://contrebasses.github.io/home/work/villo/</guid>
       <description>Une version accessible et juste utilisable du site Villo! sur mobile</description>
     </item>
   </channel>

@@ -4,144 +4,96 @@
   
     
       <url>
-            <loc>http://localhost:1313/home/work/asbl/</loc>
+            <loc>https://contrebasses.github.io/home/work/asbl/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/work/asbl/"
+              href="https://contrebasses.github.io/home/en/work/asbl/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/work/asbl/"
+              href="https://contrebasses.github.io/home/work/asbl/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/home/work/villo/</loc>
+            <loc>https://contrebasses.github.io/home/work/villo/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/work/villo/"
+              href="https://contrebasses.github.io/home/en/work/villo/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/work/villo/"
+              href="https://contrebasses.github.io/home/work/villo/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/home/work/recipe/</loc>
+            <loc>https://contrebasses.github.io/home/work/recipe/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/work/recipe/"
+              href="https://contrebasses.github.io/home/en/work/recipe/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/work/recipe/"
+              href="https://contrebasses.github.io/home/work/recipe/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/home/</loc>
+            <loc>https://contrebasses.github.io/home/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/"
+              href="https://contrebasses.github.io/home/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/"
+              href="https://contrebasses.github.io/home/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/home/land/</loc>
+            <loc>https://contrebasses.github.io/home/land/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/land/"
+              href="https://contrebasses.github.io/home/en/land/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/land/"
+              href="https://contrebasses.github.io/home/land/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/home/work/linx/</loc>
+            <loc>https://contrebasses.github.io/home/work/linx/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/work/linx/"
+              href="https://contrebasses.github.io/home/en/work/linx/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/work/linx/"
-              />
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/work/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="http://localhost:1313/home/en/work/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="fr"
-              href="http://localhost:1313/home/work/"
-              />
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/home/about/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="http://localhost:1313/home/en/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="fr"
-              href="http://localhost:1313/home/about/"
+              href="https://contrebasses.github.io/home/work/linx/"
               />
           </url>
     
@@ -155,17 +107,65 @@
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
-            <loc>http://localhost:1313/home/work/gif/</loc>
+            <loc>https://contrebasses.github.io/home/work/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/home/en/work/gif/"
+              href="https://contrebasses.github.io/home/en/work/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="http://localhost:1313/home/work/gif/"
+              href="https://contrebasses.github.io/home/work/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://contrebasses.github.io/home/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://contrebasses.github.io/home/en/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://contrebasses.github.io/home/about/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://contrebasses.github.io/home/work/gif/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://contrebasses.github.io/home/en/work/gif/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://contrebasses.github.io/home/work/gif/"
               />
           </url>
     

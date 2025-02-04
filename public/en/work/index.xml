@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/en/work/</link>
+    <link>https://contrebasses.github.io/home/en/work/</link>
     <description>Recent content in Work on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/en/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/en/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design of a non-profit&#39;s website</title>
-      <link>http://localhost:1313/home/en/work/asbl/</link>
+      <link>https://contrebasses.github.io/home/en/work/asbl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/asbl/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/asbl/</guid>
       <description>Responsive, green and accessible re-design following UX research</description>
     </item>
     <item>
       <title>Mobile version of the Villo! website</title>
-      <link>http://localhost:1313/home/en/work/villo/</link>
+      <link>https://contrebasses.github.io/home/en/work/villo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/villo/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/villo/</guid>
       <description>Accessible modern mobile design for Villo bicycle renting</description>
     </item>
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/home/en/work/recipe/</link>
+      <link>https://contrebasses.github.io/home/en/work/recipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/recipe/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/recipe/</guid>
       <description>Template for recipes as blog posts</description>
     </item>
     <item>
       <title>A Certain Linksite</title>
-      <link>http://localhost:1313/home/en/work/linx/</link>
+      <link>https://contrebasses.github.io/home/en/work/linx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/linx/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/linx/</guid>
       <description>Responsive and accessible social media link profile</description>
     </item>
     <item>
       <title>Ye Olde Gif Making Script</title>
-      <link>http://localhost:1313/home/en/work/gif/</link>
+      <link>https://contrebasses.github.io/home/en/work/gif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/gif/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/gif/</guid>
       <description>Bash script for batch gif making from a video input</description>
     </item>
   </channel>

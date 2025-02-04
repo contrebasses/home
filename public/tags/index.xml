@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/tags/</link>
+    <link>https://contrebasses.github.io/home/tags/</link>
     <description>Recent content in Tags on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A11Y</title>
-      <link>http://localhost:1313/home/tags/a11y/</link>
+      <link>https://contrebasses.github.io/home/tags/a11y/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/a11y/</guid>
+      <guid>https://contrebasses.github.io/home/tags/a11y/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
-      <link>http://localhost:1313/home/tags/bash/</link>
+      <link>https://contrebasses.github.io/home/tags/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/bash/</guid>
+      <guid>https://contrebasses.github.io/home/tags/bash/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/home/tags/css/</link>
+      <link>https://contrebasses.github.io/home/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/css/</guid>
+      <guid>https://contrebasses.github.io/home/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>GREEN IT</title>
-      <link>http://localhost:1313/home/tags/green-it/</link>
+      <link>https://contrebasses.github.io/home/tags/green-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/green-it/</guid>
+      <guid>https://contrebasses.github.io/home/tags/green-it/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/home/tags/html/</link>
+      <link>https://contrebasses.github.io/home/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/html/</guid>
+      <guid>https://contrebasses.github.io/home/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>MOBILE-FIRST</title>
-      <link>http://localhost:1313/home/tags/mobile-first/</link>
+      <link>https://contrebasses.github.io/home/tags/mobile-first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/mobile-first/</guid>
+      <guid>https://contrebasses.github.io/home/tags/mobile-first/</guid>
       <description></description>
     </item>
     <item>
       <title>PROTOTYPING</title>
-      <link>http://localhost:1313/home/tags/prototyping/</link>
+      <link>https://contrebasses.github.io/home/tags/prototyping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/prototyping/</guid>
+      <guid>https://contrebasses.github.io/home/tags/prototyping/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripting</title>
-      <link>http://localhost:1313/home/tags/scripting/</link>
+      <link>https://contrebasses.github.io/home/tags/scripting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/scripting/</guid>
+      <guid>https://contrebasses.github.io/home/tags/scripting/</guid>
       <description></description>
     </item>
     <item>
       <title>UI</title>
-      <link>http://localhost:1313/home/tags/ui/</link>
+      <link>https://contrebasses.github.io/home/tags/ui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/ui/</guid>
+      <guid>https://contrebasses.github.io/home/tags/ui/</guid>
       <description></description>
     </item>
     <item>
       <title>UX</title>
-      <link>http://localhost:1313/home/tags/ux/</link>
+      <link>https://contrebasses.github.io/home/tags/ux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/tags/ux/</guid>
+      <guid>https://contrebasses.github.io/home/tags/ux/</guid>
       <description></description>
     </item>
   </channel>

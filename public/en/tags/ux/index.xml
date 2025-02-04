@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UX on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/en/tags/ux/</link>
+    <link>https://contrebasses.github.io/home/en/tags/ux/</link>
     <description>Recent content in UX on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/en/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/en/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design of a non-profit&#39;s website</title>
-      <link>http://localhost:1313/home/en/work/asbl/</link>
+      <link>https://contrebasses.github.io/home/en/work/asbl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/asbl/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/asbl/</guid>
       <description>Responsive, green and accessible re-design following UX research</description>
     </item>
   </channel>

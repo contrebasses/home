@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/categories/</link>
+    <link>https://contrebasses.github.io/home/categories/</link>
     <description>Recent content in Categories on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

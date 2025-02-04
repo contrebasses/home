@@ -38,7 +38,7 @@ B-->C[Profit]
 
 ## CV
 
-{{< button href="#button" target="_self" >}}
+{{< button href="Hawa-FR.pdf" target="_blank" >}}
 Télécharger mon CV
 {{< /button >}}
 

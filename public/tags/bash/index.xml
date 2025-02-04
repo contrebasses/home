@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bash on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/tags/bash/</link>
+    <link>https://contrebasses.github.io/home/tags/bash/</link>
     <description>Recent content in Bash on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ye Olde Gif Making Script</title>
-      <link>http://localhost:1313/home/work/gif/</link>
+      <link>https://contrebasses.github.io/home/work/gif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/gif/</guid>
+      <guid>https://contrebasses.github.io/home/work/gif/</guid>
       <description>Un script Bash pour faire des gifs à partir d&amp;rsquo;une vidéo</description>
     </item>
   </channel>

@@ -31,7 +31,7 @@ Now I mostly listen to end users, research their needs, and **keep the human on 
 
 ## Resume
 
-{{< button href="#button" target="_self" >}}
+{{< button href="Hawa-EN.en.pdf" target="_blank" >}}
 Download my resume
 {{< /button >}}
 

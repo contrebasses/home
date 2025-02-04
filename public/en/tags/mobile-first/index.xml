@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MOBILE-FIRST on Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/en/tags/mobile-first/</link>
+    <link>https://contrebasses.github.io/home/en/tags/mobile-first/</link>
     <description>Recent content in MOBILE-FIRST on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/en/tags/mobile-first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/en/tags/mobile-first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/home/en/work/recipe/</link>
+      <link>https://contrebasses.github.io/home/en/work/recipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/en/work/recipe/</guid>
+      <guid>https://contrebasses.github.io/home/en/work/recipe/</guid>
       <description>Template for recipes as blog posts</description>
     </item>
   </channel>

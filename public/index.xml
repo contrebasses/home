@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hawa M | UX/UI Designer</title>
-    <link>http://localhost:1313/home/</link>
+    <link>https://contrebasses.github.io/home/</link>
     <description>Recent content on Hawa M | UX/UI Designer</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2024 Hawa M</copyright>
-    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://contrebasses.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design du site d&#39;une association</title>
-      <link>http://localhost:1313/home/work/asbl/</link>
+      <link>https://contrebasses.github.io/home/work/asbl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/asbl/</guid>
+      <guid>https://contrebasses.github.io/home/work/asbl/</guid>
       <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
     </item>
     <item>
       <title>Version mobile du site Villo!</title>
-      <link>http://localhost:1313/home/work/villo/</link>
+      <link>https://contrebasses.github.io/home/work/villo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/villo/</guid>
+      <guid>https://contrebasses.github.io/home/work/villo/</guid>
       <description>Une version accessible et juste utilisable du site Villo! sur mobile</description>
     </item>
     <item>
       <title>Recettes</title>
-      <link>http://localhost:1313/home/work/recipe/</link>
+      <link>https://contrebasses.github.io/home/work/recipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/recipe/</guid>
+      <guid>https://contrebasses.github.io/home/work/recipe/</guid>
       <description>Template de recette de cuisine pour blog</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/home/land/</link>
+      <link>https://contrebasses.github.io/home/land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/land/</guid>
-      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &lt;picture&#xA;      class=&#34;mx-auto my-0 rounded-md&#34;&#xA;      &#xA;    &gt;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;img&#xA;        width=&#34;208&#34;&#xA;        height=&#34;232&#34;&#xA;        class=&#34;mx-auto my-0 rounded-md&#34;&#xA;        alt=&#34;Un portrait pop et acidulé de l&amp;rsquo;auteur&#34;&#xA;        loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;        &#xA;          src=&#34;http://localhost:1313/home/home/land/autrice.jpg&#34;&#xA;        &#xA;      /&gt;&#xA;    &lt;/picture&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://contrebasses.github.io/home/land/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &lt;picture&#xA;      class=&#34;mx-auto my-0 rounded-md&#34;&#xA;      &#xA;    &gt;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;img&#xA;        width=&#34;208&#34;&#xA;        height=&#34;232&#34;&#xA;        class=&#34;mx-auto my-0 rounded-md&#34;&#xA;        alt=&#34;Un portrait pop et acidulé de l&amp;rsquo;auteur&#34;&#xA;        loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;        &#xA;          src=&#34;https://contrebasses.github.io/home/home/land/autrice.jpg&#34;&#xA;        &#xA;      /&gt;&#xA;    &lt;/picture&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Certain Linksite</title>
-      <link>http://localhost:1313/home/work/linx/</link>
+      <link>https://contrebasses.github.io/home/work/linx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/linx/</guid>
+      <guid>https://contrebasses.github.io/home/work/linx/</guid>
       <description>Une page de profil/liens responsive et accessible</description>
     </item>
     <item>
       <title>Qui suis-je ?</title>
-      <link>http://localhost:1313/home/about/</link>
+      <link>https://contrebasses.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/about/</guid>
+      <guid>https://contrebasses.github.io/home/about/</guid>
       <description>&lt;p&gt;Je m&amp;rsquo;appelle Hawa, je suis &lt;strong&gt;designer UX/UI&lt;/strong&gt; en Belgique et dans le monde.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ye Olde Gif Making Script</title>
-      <link>http://localhost:1313/home/work/gif/</link>
+      <link>https://contrebasses.github.io/home/work/gif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/gif/</guid>
+      <guid>https://contrebasses.github.io/home/work/gif/</guid>
       <description>Un script Bash pour faire des gifs à partir d&amp;rsquo;une vidéo</description>
     </item>
   </channel>
