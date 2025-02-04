@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/home/work/asbl/</guid>
       <description>Modernisation et adaptation responsive, accessible et écoresponsable de site après recherche UX</description>
     </item>
-    <item>
-      <title>Design d&#39;application de courses en ligne</title>
-      <link>http://localhost:1313/home/work/food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/work/food/</guid>
-      <description>What it says on the tin</description>
-    </item>
   </channel>
 </rss>

@@ -36,22 +36,6 @@
   
     
       <url>
-            <loc>http://localhost:1313/home/work/food/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="http://localhost:1313/home/en/work/food/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="fr"
-              href="http://localhost:1313/home/work/food/"
-              />
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/home/work/recipe/</loc>
             <xhtml:link
               rel="alternate"
