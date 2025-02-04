@@ -55,14 +55,9 @@ I decided to go for a mobile-first design, to make it lighter and easier on less
 
 After creating an interactive prototype for my design, I tested it with 5 users who would be part of the target for the non-profit.
 
-<table>
-<tr>
-<td>
 
 ![](SUS.png "A few questions from the SUS") 
 
-</td>
-<td>
 
 {{< chart >}}
 type: 'doughnut',
@@ -81,9 +76,6 @@ data: {
 }
 {{< /chart >}}
 
-</td>
-</tr>
-</table>
 
 The users navigated through the prototype to complete to tasks (register for training and applying for a job). They then completed the SUS, a standardized post-usability test questionnaire.
 

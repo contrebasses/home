@@ -30,6 +30,13 @@
       <description>What it says on the tin</description>
     </item>
     <item>
+      <title>Recipes</title>
+      <link>http://localhost:1313/home/en/work/recipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/en/work/recipe/</guid>
+      <description>Template for recipes as blog posts</description>
+    </item>
+    <item>
       <title>A Certain Linksite</title>
       <link>http://localhost:1313/home/en/work/linx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

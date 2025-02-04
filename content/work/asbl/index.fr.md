@@ -56,14 +56,7 @@ Pour alléger le site, et réduire sa consommation d'énergie, j'ai conçu mon p
 
 Après avoir conçu un prototype interactif de mon nouveau design, j'ai recruté 5 testeuses correspondant au public cible de l'ASBL.
 
-<table>
-<tr>
-<td>
-
 ![Extrait du questionnaire SUS](SUS.png "Un extrait du questionnaire SUS") 
-
-</td>
-<td>
 
 {{< chart >}}
 type: 'doughnut',
@@ -82,9 +75,6 @@ data: {
 }
 {{< /chart >}}
 
-</td>
-</tr>
-</table>
 
 Après avoir parcouru le prototype et réalisé deux tâches (s'inscrire à une formation et postuler à une offre d'emploi), elle se sont autoadministré un questionnaire SUS traduit en français.
 
